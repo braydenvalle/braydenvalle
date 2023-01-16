@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brayden</h1>
 <h3 align="center">I'm a freelancer in my spare time, and do some other hobbies on the side!</h3>
 
-<h3 align="center">📬 Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/brayden_valle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brayden_valle" height="30" width="40" /></a>
 <a href="https://www.behance.net/brayden_valle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brayden_valle" height="30" width="40" /></a>
